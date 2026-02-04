@@ -38,6 +38,18 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshidangi2006&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  
+  <img src="https://streak-stats.demolab.com?user=sakshidangi2006&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshidangi2006&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  
+</div>
+
 
 ## 🔭 What I'm Currently Working On
 
@@ -57,13 +69,28 @@ learning_journey = {
 }
 ```
 
+## 💼 Projects
+
+🚀 Check out my pinned repositories below to see what I've been working on!
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshidangi2006&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  
+</div>
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=sakshidangi2006&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🤝 Connect With Me
 
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/-Sakshi_Dangi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshidangi-633b2635b)
-  [![Email](https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshidangi2006@gmail.com)
+  [![Email](https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshidangi241233@acropolis.in)
   [![GitHub](https://img.shields.io/badge/-Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakshidangi2006)
   
 </div>
