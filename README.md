@@ -71,8 +71,11 @@ learning_journey = {
 
 ## 💼 Projects
 
-🚀 Check out my pinned repositories below to see what I've been working on!
+### 🧮 [Python Calculator](https://github.com/sakshidangi2006/Python-Projects)
+A command-line calculator with error handling and basic arithmetic operations.
 
+### 🎮 [Number Guessing Game](https://github.com/sakshidangi2006/Python-Projects)
+Interactive CLI game with smart hints and replay functionality.
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -89,9 +92,9 @@ learning_journey = {
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/-Sakshi_Dangi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshidangi-633b2635b)
-  [![Email](https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshidangi241233@acropolis.in)
-  [![GitHub](https://img.shields.io/badge/-Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakshidangi2006)
+[![LinkedIn](https://img.shields.io/badge/-Sakshi%20Dangi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshidangi-633b2635b)
+[![Email](https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshidangi2006@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakshidangi2006)
   
 </div>
 
@@ -99,15 +102,12 @@ learning_journey = {
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- Coming soon! I'll be sharing my learning journey and project insights.
-<!-- BLOG-POST-LIST:END -->
-
 ## 🎯 2026 Goals
 
 - ✅ Build a strong foundation in Python programming
-- ⬜ Complete 5+ AI/ML projects
+- ⬜ Build a sentiment analysis tool
+- ⬜ Create an image classifier with CNN
+- ⬜ Develop a chatbot using NLP
 - ⬜ Contribute to open-source projects
 - ⬜ Participate in hackathons
 - ⬜ Build a strong GitHub portfolio
