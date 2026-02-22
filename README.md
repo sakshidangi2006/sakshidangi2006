@@ -77,7 +77,7 @@ A command-line calculator with error handling and basic arithmetic operations.
 ### 🎮 [Number Guessing Game](https://github.com/sakshidangi2006/Python-Projects)
 Interactive CLI game with smart hints and replay functionality.
 
-### [Scientific Calculator](https://github.com/sakshidangi2006/JavaScript-Projectj/Calculator-Program)
+### 🧮 [Scientific Calculator](https://github.com/sakshidangi2006/JavaScript-Project/tree/main/Calculator-Program)
 A calculator with some advance features like trignometic functions, exponential function and many more.
 ## 📈 Contribution Graph
 
